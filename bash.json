@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Welcome</>",
                     "title1": "Welcome to BASH!",
                     "title2": "Bem-vindos ao BASH!",
-                    "text1": "Join our Discord by clicking the tab bellow or going to:\n bash-gaming.fun\n\nWe are a Portugal based server, check the next tab for detailed server info.",
+                    "text1": "Join our Discord by clicking the button bellow or going to:\nbash-gaming.fun\n\nWe are a Portugal based server, check the next tab for detailed server info.",
                     "text2": "Juntem-se ao nosso Discord, clicando no link abaixo ou indo a:\nbash-gaming.fun\n\nTemos servidor em Portugal, vejam a proxima tab para info mais detalhada do servidor.",
                     "imageurl": "https://i.imgur.com/SH8uy0T.png"
                 }
@@ -38,31 +38,16 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "WIP",
-                    "title1": "Left title",
-                    "title2": "Top right title",
-                    "title3": "Bottom left title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the top right box",
-                    "text3": "This text goes into the bottom right box",
+                    "buttontext": "Future Plans",
+                    "title1": "Whats the Plan?",
+                    "title2": "Ongoing",
+                    "title3": "Future",
+                    "text1": "We are a group of friends making our private server public for everyone, we host in our own servers so the plan is to keep the server going for as long as possible, with no wipes",
+                    "text2": "We are keeping the server up to date with the latest mods for confort and fun\nNot everyone has much time to spare so our rates and mods are adjusted for a nice but not OP pacing",
+                    "text3": "As soon as Scorched Earth releases, we will be hosting another server clustered with this one, for seamless transition between maps\n\nWe are also waiting for a cool economy mod like Auction House (on ASE) to be available and stable for use in our servers.",
                     "imageurl": "https://i.imgur.com/LmHej3k.png"
                 }
             },
-            {
-                "tab4": {
-                    "layout": 4,
-                    "buttontext": "WIP",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
-                    "text1": "<RichColor Color=\"0,1,0,1\">This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://i.imgur.com/LmHej3k.png"
-                }
-            }
         ],
         "links": [
             {
