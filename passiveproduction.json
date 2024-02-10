@@ -94,7 +94,7 @@
             ]
         },
         {
-            "dinoType": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'",
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
             "produces": [
                 {
                     "intervalSeconds": 100,
@@ -107,17 +107,15 @@
             ]
         },
         {
-            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP'",
             "produces": [
                 {
                     "intervalSeconds": 100,
-                    "alternateItemChance": 0.5,
+                    "alternateItemChance": 0.0,
                     "items": [
-                        "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
-                    ],
-                    "alternateItems": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
-                    ]
+                    ],
+                    "alternateItems": []
                 }
             ]
         },
