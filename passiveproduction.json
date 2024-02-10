@@ -111,11 +111,13 @@
             "produces": [
                 {
                     "intervalSeconds": 100,
-                    "alternateItemChance": 0.0,
+                    "alternateItemChance": 0.5,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
                     ],
-                    "alternateItems": []
+                    "alternateItems": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+                    ]
                 }
             ]
         },
